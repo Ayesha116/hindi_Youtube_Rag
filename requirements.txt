@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain_groq
+langchain_huggingface
+huggingface_hub
+transformers
+langchain-community
+python-dotenv
+pydantic
+streamlit
+youtube-transcript-api
+
